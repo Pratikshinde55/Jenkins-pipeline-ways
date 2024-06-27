@@ -1,8 +1,13 @@
 # Jenkins-pipeline-ways
 
-We can create pipeline by two ways in Jenkins 
- 1. Manual pipeline
- 2. pipeline as code (automatic)
+We can create pipeline by two ways in Jenkins :
+ 1. pipeline as code (automatic)
+ 2. Manual pipeline
+
+  
+
+# 1. Pipeline as Code
+# 2. Manual jenkins pipeline (jenkins WebUI):
 
 Upstream :
 
@@ -12,10 +17,6 @@ Downsteram:
 
   If jobA run then after next jobB automatic start then JobB is downstream job of jobA.
   
-
-
-# 1. Manual jenkins pipeline (jenkins WebUI):
-
 For this jenkins give many plugins which give different view for pipeline .
 
 for manual pipeline i install "Build pipeline plugin and Delivery pipeline plugin" and restart jenkins:
@@ -83,4 +84,4 @@ pipeline view by delivery plugin:
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/286d7dce-3675-4526-82c4-b2b978ce6b06)
 
-    
+
