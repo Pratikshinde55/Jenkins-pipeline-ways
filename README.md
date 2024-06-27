@@ -55,7 +55,10 @@ Now we can create 'New view' file jenkins Dashboard :
  ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/17758cef-2aa3-442e-a7cb-84aabeb3472e)
 
 
+2. Now create by Delivery pipeline view:
 
+This pipeline plugin give visual view.
+we can add multiple features and buttons.
 
  
 
