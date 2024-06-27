@@ -34,23 +34,6 @@ Jenkinsfile :
 
 It is Standard name of the file in which pipeline as code store.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 # 2. Manual jenkins pipeline (jenkins WebUI):
 
