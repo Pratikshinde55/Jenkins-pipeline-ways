@@ -36,7 +36,10 @@ For JobB:--- ( Here we can create JobC downstream for jobB )
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/b24b9c7e-6526-467e-b16c-64b6c86c01d8)
 
-Now we can create 'my view' file 
+Now we can create 'New view' file jenkins Dashboard :
+
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/64d3f756-45ce-4e31-a1c5-ba5f2459e670)
+
 
 
 
