@@ -38,8 +38,21 @@ For JobB:--- ( Here we can create JobC downstream for jobB )
 
 Now we can create 'New view' file jenkins Dashboard :
 
-![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/64d3f756-45ce-4e31-a1c5-ba5f2459e670)
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/ebbc47bf-edb4-4b30-b3d3-528af72aa4a9)
 
+
+1. Now create by Build pipeline view :
+
+ This is option only come when we install Build pipeline plugin
+
+ we can add multiple feature and button and also we add different jobs, 
+
+ Only need to give Initial Job 
+
+ ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/520cb0b5-b6e9-41dc-9943-ab1aeaa42235)
+
+ see pipeline :
+ ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/17758cef-2aa3-442e-a7cb-84aabeb3472e)
 
 
 
