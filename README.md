@@ -23,8 +23,15 @@ for manual pipeline i install "Build pipeline plugin and Delivery pipeline plugi
  Jenkins Dashboard -->> Manage jenkins -->> plugins 
 
  create manual pipeline:
-  - create three job and connect them by "post action" or trigger.
+  - create individual three job and connect them by "post action" or trigger.
   - one job connect to other by manual
+
+ Step 1:
+ create jobA , JobB, JobC 'freestyle'
+
+ ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/1ad9d607-37db-4c39-9f83-18fff27b39ad)
+
+
 
 
 
