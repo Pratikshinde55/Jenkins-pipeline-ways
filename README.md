@@ -30,7 +30,9 @@ ways of create pipeline as Code:
   - agent : It is about on which node we want to run stage/job or pipeline, By Using "label" we specify that on which node we want execute pipeline.
 
 
+Jenkinsfile : 
 
+It is Standard name of the file in which pipeline as code store.
 
 
 
