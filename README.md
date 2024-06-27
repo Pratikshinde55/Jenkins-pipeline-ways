@@ -6,7 +6,40 @@ We can create pipeline by two ways in Jenkins :
 
   
 
-# 1. Pipeline as Code
+# 1. Pipeline as Code:
+
+  Pipeline as code can create by using "Groovy language".
+
+  Groovy Language also run on JVM (Java virtual machine).
+
+ Ways of Pipeline as code:
+    1. Scripted 
+    2. Decarative 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 # 2. Manual jenkins pipeline (jenkins WebUI):
 
 - Upstream :
