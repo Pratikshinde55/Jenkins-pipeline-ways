@@ -29,7 +29,13 @@ for manual pipeline i install "Build pipeline plugin and Delivery pipeline plugi
  Step 1:
  create jobA , JobB, JobC 'freestyle'
 
+For JobA:---
+
  ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/1ad9d607-37db-4c39-9f83-18fff27b39ad)
+
+For JobB:---
+
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/80dfc8e0-92e4-4ade-b62f-d4d6f9f0c678)
 
 
 
