@@ -9,11 +9,11 @@ We can create pipeline by two ways in Jenkins :
 # 1. Pipeline as Code
 # 2. Manual jenkins pipeline (jenkins WebUI):
 
-Upstream :
+- Upstream :
 
   If jobA run then after next automatic JobB run , it means JobA is upstream of JobB .
 
-Downsteram:
+- Downsteram:
 
   If jobA run then after next jobB automatic start then JobB is downstream job of jobA.
   
