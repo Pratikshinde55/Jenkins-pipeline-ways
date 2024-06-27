@@ -8,7 +8,7 @@ We can create pipeline by two ways in Jenkins :
 
 # 1. Pipeline as Code:
 
-  Pipeline as code can create by using "Groovy language".
+  Pipeline as code can create by using "Groovy language". It is DSL ( Domain-Specific Language)
 
   Groovy Language also run on JVM (Java virtual machine).
 
@@ -33,6 +33,7 @@ ways of create pipeline as Code:
 Jenkinsfile : 
 
 It is Standard name of the file in which pipeline as code store.
+
 
 
 
