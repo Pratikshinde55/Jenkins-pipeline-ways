@@ -14,7 +14,7 @@ Downsteram:
   
 
 
-# 1 Manual jenkins pipeline (jenkins WebUI):
+# 1. Manual jenkins pipeline (jenkins WebUI):
 
 For this jenkins give many plugins which give different view for pipeline .
 
