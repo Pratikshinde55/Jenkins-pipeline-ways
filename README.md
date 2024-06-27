@@ -66,8 +66,17 @@ go to "My view"  -->> "new View" -->> "Delivery Pipeline View"
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/415cf65f-1b14-4a72-a074-b5b9ddc9b1c8)
 
+we can get follow view :
+
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/56b841f1-7e7c-4fad-8c1c-749170aedf6a)
 
  
+
+Also we can add new job which is run wehn other run, menas we can add upstream job for new JobD.
+
+we can create by using "Build trigger" -->> "Build after other projects are built"
+
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/bbd28d4a-3111-43fd-8cdd-b3e2fb241c23)
 
 
     
