@@ -25,8 +25,7 @@ for manual pipeline i install "Build pipeline plugin and Delivery pipeline plugi
  create manual pipeline:
   - create individual three job and connect them by "post action" or trigger.
   - one job connect to other by manual
-
- Step 1:
+  
  create jobA , JobB, JobC 'freestyle'
 
 For JobA:--- ( Here we can create JobB downstream for jobA )
@@ -37,7 +36,7 @@ For JobB:--- ( Here we can create JobC downstream for jobB )
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/b24b9c7e-6526-467e-b16c-64b6c86c01d8)
 
-
+Now we can create 'my view' file 
 
 
 
