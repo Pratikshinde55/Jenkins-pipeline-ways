@@ -79,7 +79,8 @@ we can create by using "Build trigger" -->> "Build after other projects are buil
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/bbd28d4a-3111-43fd-8cdd-b3e2fb241c23)
 
+pipeline view by delivery plugin:
 
-
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/286d7dce-3675-4526-82c4-b2b978ce6b06)
 
     
