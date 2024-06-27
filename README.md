@@ -12,9 +12,10 @@ We can create pipeline by two ways in Jenkins :
 
   Groovy Language also run on JVM (Java virtual machine).
 
- Ways of Pipeline as code:
-    1. Scripted 
-    2. Decarative 
+ Ways of Pipeline as code: 
+  1. Scripted
+  2. Decarative  
+   
 
 
 
