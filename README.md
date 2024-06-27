@@ -35,7 +35,8 @@ For JobA:--- ( Here we can create JobB downstream for jobA )
 
 For JobB:--- ( Here we can create JobC downstream for jobB )
 
-![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/80dfc8e0-92e4-4ade-b62f-d4d6f9f0c678)
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/b24b9c7e-6526-467e-b16c-64b6c86c01d8)
+
 
 
 
