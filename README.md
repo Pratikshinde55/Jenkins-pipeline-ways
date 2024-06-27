@@ -60,6 +60,11 @@ Now we can create 'New view' file jenkins Dashboard :
 This pipeline plugin give visual view.
 we can add multiple features and buttons.
 
+go to "My view"  -->> "new View" -->> "Delivery Pipeline View" 
+
+![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/415cf65f-1b14-4a72-a074-b5b9ddc9b1c8)
+
+
  
 
 
