@@ -13,15 +13,21 @@ We can create pipeline by two ways in Jenkins :
   Groovy Language also run on JVM (Java virtual machine).
 
  Ways of write Pipeline as code: 
-  1. Scripted
+  1. Scripted 
   2. Declarative  
    
 ways of create pipeline as Code:
   1. Jenkinsfile (Create on local or gitHub and access by Jenkins WebUI)
-  2. Direct create Script on Jenkins WebUI.
+  2. Direct create Declarative Script on Jenkins WebUI.
 
 
+⚙️ For Pipeline as code following terms are use in Jenkinsfile or Jenkins WebUI:
 
+  - stage : This is means job, consider we can create jobA, JobB, JobC that job is known as Stage.
+  - steps : Tt is sub-block of stage. In every job we can do somethings that things in stage is known as steps.
+  - stages : All Multiple Stage (Jobs) put in one block that is known as stages block {}.
+  - pipeline : It is keyword which use for declare this pipeline as code. It is main block in which we put all stages, steps, agents, and so on.
+  - agent : It is about on which node we want to run stage/job or pipeline, By Using "label" we specify that on which node we want execute pipeline.
 
 
 
