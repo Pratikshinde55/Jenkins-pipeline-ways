@@ -44,6 +44,7 @@ It is Standard name of the file in which pipeline as code store.
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/f3deea6b-8cbb-4906-99e6-cd4673ffc123)
 
+ - Create pipeline by using Pipeline Script way :
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/c46cb3f4-d735-4a32-8d5f-99c49e6a8de5)
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/5176c8ee-2de6-4599-af8d-b9b11a8b32f5)
