@@ -38,6 +38,10 @@ It is Standard name of the file in which pipeline as code store.
  - Now Create pipeline as Code: (Select 'pipeline' for create pipeline as code)
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/d10af14c-a676-4538-aa90-916e157055d7)
 
+ - Now there is Two ways for create pipeline as code
+   1. Script
+   2. Script from gitHub
+   3. 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/f3deea6b-8cbb-4906-99e6-cd4673ffc123)
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/c46cb3f4-d735-4a32-8d5f-99c49e6a8de5)
