@@ -51,7 +51,7 @@ It is Standard name of the file in which pipeline as code store.
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/5176c8ee-2de6-4599-af8d-b9b11a8b32f5)
 
  - we can see that our pipeline as code work or not, on console output of our job.
- - 
+ 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/e0e34b56-0b0f-44cb-8c66-eed4c6c95ed7)
 
 
