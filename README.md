@@ -47,8 +47,11 @@ It is Standard name of the file in which pipeline as code store.
  - Create pipeline by using Pipeline Script way :
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/c46cb3f4-d735-4a32-8d5f-99c49e6a8de5)
 
+ - Check Script output :
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/5176c8ee-2de6-4599-af8d-b9b11a8b32f5)
 
+ - we can see that our pipeline as code work or not, on console output of our job.
+ - 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/e0e34b56-0b0f-44cb-8c66-eed4c6c95ed7)
 
 
