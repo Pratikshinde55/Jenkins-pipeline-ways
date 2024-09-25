@@ -30,6 +30,7 @@ Ways of create pipeline as Code:
     
 
 #### Jenkinsfile: 
+
 It is Standard name of the file in which pipeline as code store. (when use Jenkinsfile it means create pipeline as Code by Pipeline script from SCM)
 
 - Now Create pipeline as Code: (Select 'pipeline' for create pipeline as code)
