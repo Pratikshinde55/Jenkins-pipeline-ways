@@ -18,39 +18,41 @@ Ways of create pipeline as Code:
 
 #### For Pipeline as code following terms are use in Jenkinsfile or Jenkins WebUI:
 
-**- pipeline**: It is keyword which use for declare this pipeline as code. It is main block in which we put all stages, steps, agents, and so on.
-**- agent** : It is about on which node we want to run stage/job or pipeline, By Using "label" we specify that on which node we want execute pipeline.
-**- stages** : All Multiple Stage (Jobs) put in one block that is known as stages block {}.
-**- stage** : This is means job, consider we can create jobA, JobB, JobC that job is known as Stage.
-**- steps** : Tt is sub-block of stage. In every job we can do somethings that things in stage is known as steps.
+**pipeline**: It is keyword which use for declare this pipeline as code. It is main block in which we put all stages, steps, agents, and so on.
+
+**agent** : It is about on which node we want to run stage/job or pipeline, By Using "label" we specify that on which node we want execute pipeline.
+
+**stages** : All Multiple Stage (Jobs) put in one block that is known as stages block {}.
+
+**stage** : This is means job, consider we can create jobA, JobB, JobC that job is known as Stage.
+
+**steps** : Tt is sub-block of stage. In every job we can do somethings that things in stage is known as steps.
     
 
-Jenkinsfile : 
-
+#### Jenkinsfile: 
 It is Standard name of the file in which pipeline as code store. (when use Jenkinsfile it means create pipeline as Code by Pipeline script from SCM)
 
-
- - Now Create pipeline as Code: (Select 'pipeline' for create pipeline as code)
+- Now Create pipeline as Code: (Select 'pipeline' for create pipeline as code)
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/d10af14c-a676-4538-aa90-916e157055d7)
 
- - Now there is Two ways for create pipeline as code:
+- Now there is Two ways for create pipeline as code:
    1.  Pipeline Script
    2.  Pipeline Script from SCM (gitHub)
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/f3deea6b-8cbb-4906-99e6-cd4673ffc123)
 
- - Create pipeline by using Pipeline Script way :
+- Create pipeline by using Pipeline Script way :
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/c46cb3f4-d735-4a32-8d5f-99c49e6a8de5)
 
- - Check Script output :
+- Check Script output :
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/5176c8ee-2de6-4599-af8d-b9b11a8b32f5)
 
- - we can see that our pipeline as code work or not, on console output of our job.
+- we can see that our pipeline as code work or not, on console output of our job.
  
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/e0e34b56-0b0f-44cb-8c66-eed4c6c95ed7)
 
 
-# 2. Manual jenkins pipeline (jenkins WebUI):
+## 2. Manual jenkins pipeline (jenkins WebUI):
 
 - Upstream :
 
