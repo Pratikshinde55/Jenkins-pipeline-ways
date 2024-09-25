@@ -87,7 +87,7 @@ Now we can create 'New view' file jenkins Dashboard :
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/ebbc47bf-edb4-4b30-b3d3-528af72aa4a9)
 
 
-1. Now create by Build pipeline view :
+### 1. Now create by Build pipeline view :
 
  This is option only come when we install Build pipeline plugin
 
@@ -101,12 +101,10 @@ Now we can create 'New view' file jenkins Dashboard :
  ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/17758cef-2aa3-442e-a7cb-84aabeb3472e)
 
 
-2. Now create by Delivery pipeline view:
+### 2. Now create by Delivery pipeline view:
+This pipeline plugin give visual view. we can add multiple features and buttons.
 
-This pipeline plugin give visual view.
-we can add multiple features and buttons.
-
-Onlu need to initial job and also we can give final job of pipeline.
+Only need to initial job and also we can give final job of pipeline.
 
 go to "My view"  -->> "new View" -->> "Delivery Pipeline View" 
 
@@ -116,8 +114,6 @@ we can get follow view :
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/56b841f1-7e7c-4fad-8c1c-749170aedf6a)
 
-
- 
 - Note :
 Also we can add new job which is run wehn other run, menas we can add upstream job for new JobD.
 
@@ -128,5 +124,3 @@ we can create by using "Build trigger" -->> "Build after other projects are buil
 pipeline view by delivery plugin:
 
 ![image](https://github.com/Pratikshinde55/Jenkins-pipeline-ways/assets/145910708/286d7dce-3675-4526-82c4-b2b978ce6b06)
-
-
