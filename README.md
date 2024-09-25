@@ -16,7 +16,7 @@ Ways of create pipeline as Code:
   1. Jenkinsfile (Create on local or gitHub and access by Jenkins WebUI)
   2. Direct create Declarative Script on Jenkins WebUI.
 
-#### For Pipeline as code following terms are use in Jenkinsfile or Jenkins WebUI:
+- For Pipeline as code following terms are use in Jenkinsfile or Jenkins WebUI:
 
 **pipeline**: It is keyword which use for declare this pipeline as code. It is main block in which we put all stages, steps, agents, and so on.
 
